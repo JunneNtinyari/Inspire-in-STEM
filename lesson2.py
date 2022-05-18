@@ -17,4 +17,8 @@ age =18
 
 print("I am " + my_first_name)
 print("I am " + str (age))
+print("I am an alumni of " + schoolAttended )
+print("I was born on " + dateofBirth)
+
+
  
