@@ -8,3 +8,4 @@ print(f"My name is {pupil[3]} and I go to {school[3]} school")
 
 #looping through a single list = for loops
 for pupil in pupil:
+     print(f"My name is {pupil}")
